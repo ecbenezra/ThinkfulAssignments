@@ -1,0 +1,15 @@
+Unit 2, Lesson 1, Assignment 5 Drill: TLADS
+
+1. cntry - categorical
+2. idno	- categorical
+3. year	- continuous
+4. tvtot - continuous (ratio)
+5. ppltrst - continuous (ratio)
+6. pplfair	- continuous (ratio)
+7. pplhlp	- continuous (ratio)
+8. happy	- continuous (ratio)
+9. sclmeet	- continuous (ordinal)
+10. sclact	- continuous (ratio)
+11. gndr	- categorical
+12. agea - continuous	(Ratio variable)
+13. partner - categorical
