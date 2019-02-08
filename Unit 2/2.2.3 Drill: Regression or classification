@@ -1,0 +1,24 @@
+For each of the following situations, decide if you would model using a regression or classification model. 
+Discuss your reasoning with your mentor next time you meet.
+
+1. The amount a person will spend on a given site in the next 24 months.
+Regression - amount of time spent on a site is continuous
+
+2. What color car someone is going to buy.
+Classification if there are a finite number of colors available. 
+Regression in theroy if the color can be any color in existence.
+
+3. How many children a family will have.
+Regression as a family could have between 0 and who knows how many children. According to records, the most children a single woman has had is 69. 
+
+4. If someone will sign up for a service.
+Classification - they sign up or they don't.
+
+5. The number of times someone will get sick in a year.
+Regression as the number is on a continuum between 0 and 365 (or 366 if it's a leap year).
+
+6. The probability someone will get sick in the next month.
+Regression - probabilities. 
+
+7. Which medicine will work best for a given patient.
+Classification, especially if it's between a certain sets of meds. I.e. "Which anticonvulsant will work best to treat this patient's epilepsy?" In the day and age of using genetic information to inform medicine choices based on patient metabolization, I could see a way to try and make this into a regression question, thouh. 
